@@ -1,0 +1,81 @@
+{
+  "readingId": "oop-meet-the-objects-reading",
+  "title": "Meet the Objects — Defining a Class From Scratch",
+  "timestamp": "2026-11-09T17:30:36.635Z",
+  "persona": {
+    "name": "Bold Wolf",
+    "emoji": "🐺"
+  },
+  "responses": {
+    "clue": "two objects can hold different values because they don't affect each other; object_a or object_b being why they have different variables."
+  },
+  "done": [
+    "q-func",
+    "q-dict",
+    "q-attr",
+    "q-self",
+    "q-predict",
+    "q-selectall",
+    "q-summary",
+    "act-flip-vocab",
+    "resp-clue",
+    "act-fillcode-init"
+  ],
+  "score": {
+    "earned": 8.5,
+    "possible": 10,
+    "pct": 85
+  },
+  "scoreDetail": {
+    "q-func": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-dict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-attr": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-self": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-predict": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-clue": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-fillcode-init": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
