@@ -1,0 +1,92 @@
+{
+  "readingId": "first-validation-function-reading1",
+  "title": "Trust, But Verify — Designing Your First Validation Function",
+  "timestamp": "2026-11-12T15:07:34.193Z",
+  "persona": {
+    "name": "Bold Wolf",
+    "emoji": "🐺"
+  },
+  "responses": {
+    "blankA": "enumerate",
+    "blankB": "isdigit",
+    "blankC": "problems",
+    "isolate": ""
+  },
+  "done": [
+    "q-index",
+    "q-return",
+    "q-split",
+    "q-grade",
+    "q-contract",
+    "q-fillfn",
+    "q-debug",
+    "act-drag-sort"
+  ],
+  "score": {
+    "earned": 8,
+    "possible": 12,
+    "pct": 66.7
+  },
+  "scoreDetail": {
+    "q-index": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-return": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-split": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-grade": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-contract": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-enum": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-sort": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "resp-isolate": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "q-fillfn": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    }
+  }
+}
