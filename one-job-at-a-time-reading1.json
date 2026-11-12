@@ -1,0 +1,88 @@
+{
+  "readingId": "one-job-at-a-time-reading1",
+  "title": "One Job at a Time — Writing a Second, Single-Job Function",
+  "timestamp": "2026-11-12T15:07:47.107Z",
+  "persona": {
+    "name": "Bold Wolf",
+    "emoji": "🐺"
+  },
+  "responses": {
+    "isolate": ""
+  },
+  "done": [
+    "q-unpack",
+    "q-loopcount"
+  ],
+  "score": {
+    "earned": 2.5,
+    "possible": 13,
+    "pct": 19.2
+  },
+  "scoreDetail": {
+    "q-unpack": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-loopcount": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-drag-jobs": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-total": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-fillfn": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-trace": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-alert": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "act-sim-run": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    },
+    "q-debug": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-isolate": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
