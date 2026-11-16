@@ -1,0 +1,86 @@
+{
+  "readingId": "python-data-structures-reading2",
+  "title": "Lookups Matter — Python Data Structures",
+  "timestamp": "2026-11-16T18:56:33.639Z",
+  "persona": {
+    "name": "Bold Wolf",
+    "emoji": "🐺"
+  },
+  "responses": {
+    "strategy": ""
+  },
+  "done": [
+    "q-recall-worst",
+    "q-recall-dictkey",
+    "q-linear",
+    "q-build",
+    "q-debug",
+    "q-brackets",
+    "q-blank",
+    "q-selectall",
+    "q-summary",
+    "act-flip-vocab"
+  ],
+  "score": {
+    "earned": 8,
+    "possible": 11,
+    "pct": 72.7
+  },
+  "scoreDetail": {
+    "q-recall-worst": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-recall-dictkey": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-linear": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-build": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-debug": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-brackets": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-blank": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-selectall": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "q-summary": {
+      "earned": 0.5,
+      "possible": 1,
+      "kind": "quiz"
+    },
+    "resp-strategy": {
+      "earned": 0,
+      "possible": 1,
+      "kind": "response"
+    },
+    "act-flip-vocab": {
+      "earned": 1,
+      "possible": 1,
+      "kind": "activity"
+    }
+  }
+}
